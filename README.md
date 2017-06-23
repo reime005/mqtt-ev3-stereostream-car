@@ -5,3 +5,8 @@ This project is part of my master thesis. The main purpose is to remotely contro
 * A stereoscopic camera (ZED) is connected via USB 3.0, to send a UDP/gstreamer based stream to the HTC Vive Virtual Reality glass
 * The client module was built with JavaFX, to act as a MQTT publish client
 * The common module contains the messages and abstract classes for the other modules
+
+## Other repositories related to this project
+* [Floodlight SDN Controller](https://github.com/reime005/floodlight)
+* [Moquette MQTT Broker](https://github.com/reime005/moquette)
+* [Unity3D HTC Vive Side-By-Side Stream VR Application](https://github.com/reime005/UnityViveSBSApplication)
